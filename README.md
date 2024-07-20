@@ -1,6 +1,6 @@
-<p align="center">One Piece DApp - Solidity + Web3 </p>
+# <p align="center">One Piece DApp - Solidity + Web3 </p>
 
-# This is the sample project for practicing Solidity and Web3
+## This is the sample project for practicing Solidity and Web3
 
 ## one-piece-dapp
 
